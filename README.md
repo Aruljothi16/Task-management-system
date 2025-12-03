@@ -9,4 +9,3 @@ This project contains:
 
 ## Setup
 - Use `docker-compose up --build` to run the entire stack.
-⭐ 3. Create Folder Structure
